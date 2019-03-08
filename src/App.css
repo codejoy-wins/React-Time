@@ -31,3 +31,38 @@
     transform: rotate(360deg);
   }
 }
+
+.hot{
+  color: gold;
+  text-align: center;
+}
+
+.hot:hover {
+  color: blue;
+}
+.lg{
+  padding: 3vw;
+  margin: 1vw;
+  color: blueviolet;
+  background: #3a64b38a;
+}
+.lg2{
+  padding: 3vw;
+  margin: 1vw;
+  color: rgb(43, 70, 226);
+  background: #ca2bb08a;
+}
+
+.Hook{
+  padding: 4vw;
+  font-size: 3vw;
+}
+
+.Hook a{
+  text-decoration: none;
+  color: aqua;
+}
+
+a:hover{
+  color: green;
+}
